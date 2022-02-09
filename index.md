@@ -6,6 +6,7 @@ The lectures will be organized as separate repositories each having the lecture 
 
 ## Lecture Schedule and Materials
 | Week 	| Lecture 	| Material 	| Examples 	|
+
 |------	|---------	|----------	|----------	|
 | 01   	|         	|          	|          	|
 | 02   	|         	|          	|          	|
