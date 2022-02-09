@@ -5,8 +5,8 @@
 The lectures will be organized as separate repositories each having the lecture and links to example codes and also any helping material will be added there respectively. 
 
 ## Lecture Schedule and Materials
-| Week 	| Lecture 	| Material 	| Examples 	|
 
+| Week 	| Lecture 	| Material 	| Examples 	|
 |------	|---------	|----------	|----------	|
 | 01   	|         	|          	|          	|
 | 02   	|         	|          	|          	|
@@ -26,7 +26,9 @@ The lectures will be organized as separate repositories each having the lecture 
 | 16   	|         	|          	|          	|
 
 ## Discussion
-You can always contant me on Teams as well as via email, to book an appointment [Dr. Hasan Ali Khattak's Calendar](https://hasan.khattak.info/calendar)
+
+You can always contant me on Teams as well as via email, to book an appointment [Here](https://hasan.khattak.info/calendar)
 
 ## Contact Details
+
 For Assignments and Other activities refer to [NUST LMS](https://lms.nust.edu.pk/portal/login/index.php) and Grades & Attendance [Qalam](https://qalam.nust.edu.pk/)
